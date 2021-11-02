@@ -7,7 +7,7 @@ You can download videos and playlists on YouTube with this script. Script has GU
 
 `pip install -r requirements.txt`
 
-`Add path /Your Directory/ffmpeg/bin`
+`Download FFMPEG on "https://github.com/BtbN/FFmpeg-Builds/releases" and add path /Your Directory/ffmpeg/bin`
 
 `Run mp3-mp4.py with Python3`
 
