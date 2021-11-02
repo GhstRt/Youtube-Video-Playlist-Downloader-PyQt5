@@ -3,10 +3,10 @@ You can download videos and playlists on YouTube with this script. Script has GU
 
 # Setup
 
-'git clone https://github.com/GhstRt/Youtube-Video-Playlist-Downloader-PyQt5.git'
-'pip install -r requirements.txt'
-'Add path /Your Directory/ffmpeg/bin'
-'Run mp3-mp4.py with Python3'
+`git clone https://github.com/GhstRt/Youtube-Video-Playlist-Downloader-PyQt5.git`
+`pip install -r requirements.txt`
+`Add path /Your Directory/ffmpeg/bin`
+`Run mp3-mp4.py with Python3`
 
 # Licence
 
